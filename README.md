@@ -1,3 +1,3 @@
 SwiftLearnBasic
 
-详情参考wifi
+详情参考Wiki
